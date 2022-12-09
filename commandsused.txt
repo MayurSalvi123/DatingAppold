@@ -4,3 +4,6 @@ dotnet ef database update
 
 git init
 dotnet new gitignore
+
+npm install -g @angular/cli
+npm install ngx-bootstrap --save
